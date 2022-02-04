@@ -1,0 +1,23 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rightLogin {
+  max-width: 50rem;
+  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  max-width: 30rem;
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
